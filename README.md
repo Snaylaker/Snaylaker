@@ -1,4 +1,4 @@
-I'm Mehdi, a full-stack developer currently based in Paris.
+I'm Mehdi, a full-stack developer based in Paris.
 
 I come from an embedded systems background. Today, I work mostly with TypeScript and React to build full-stack web applications. On the side, I've picked up Neovim with Kickstart and have been learning some Golang.
 
